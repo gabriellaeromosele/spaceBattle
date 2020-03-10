@@ -25,7 +25,7 @@ document.getElementById('ussSchwarz').style.left = ussSchwarz.left + "px";
 }
 moveUssSchwarz();
 
-console.log("Game Over");
+
 
 
 
