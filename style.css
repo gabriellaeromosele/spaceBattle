@@ -1,5 +1,6 @@
 #image{
-    background-image: url('assets/background.jpg');
+    background-image: url('assets/stars1.gif');
+    background-size: cover;
     height: 1250px;
     width: 2160px;
 }
@@ -9,8 +10,8 @@
     height: 100px;
     width: 100px;
     position: absolute;
-    top: 1000px;
-    left: 850px;
+    top: 600px;
+    left: 0px;
 
 }
 
@@ -20,11 +21,11 @@
  width: 100px;
  position: absolute;
  top: 120px;
- left: 850px;
- rotate: 180deg;\
-}
+ left: 350px;
+ rotate: 180deg;
+};
 
-.laser{
+.laser {
     background-image: url('assets/laser.png');
     height: 1200px;
     width: 1200px;

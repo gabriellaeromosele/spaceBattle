@@ -1,3 +1,7 @@
+alert("Are you prepared to battle!!")
+alert("This is your last chance to Retreat!");
+alert("I guess this means WARRRR!!!!");
+
 var ussSchwarz = {
     top: 900,
     left: 850
@@ -24,7 +28,6 @@ function moveUssSchwarz() {
 document.getElementById('ussSchwarz').style.left = ussSchwarz.left + "px";
 }
 moveUssSchwarz();
-
 
 
 
